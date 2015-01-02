@@ -31,9 +31,15 @@ zstyle ':prezto:load' pmodule \
   'directory' \
   'spectrum' \
   'utility' \
+  'ssh' \
   'completion' \
-  'prompt' \
-  'tmux'
+  'tmux' \
+  'ruby' \
+  'tmuxinator' \
+  'git' \
+  'syntax-highlighting' \
+  'history-substring-search' \
+  'prompt'
 
 #
 # Editor
